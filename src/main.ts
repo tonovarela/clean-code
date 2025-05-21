@@ -1,7 +1,7 @@
 import './style.css'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
-import './solid/04-segregation';
+import './solid/05-dependency-a';
 
 app.innerHTML = `
   <h1>CleanCode y SOLID</h1>
